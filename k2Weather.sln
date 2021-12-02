@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "k2Weather", "k2Weather\k2Weather.pyproj", "{4C0257E7-DB74-4265-BB5D-3218CEC1C310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0257E7-DB74-4265-BB5D-3218CEC1C310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0257E7-DB74-4265-BB5D-3218CEC1C310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4719ED-CD87-497B-A880-CB9F55AD53D0}
+	EndGlobalSection
+EndGlobal
